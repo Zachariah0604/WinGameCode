@@ -1,0 +1,115 @@
+﻿  t3dlib1.cpp
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(195): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(196): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(349): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(350): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(351): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(352): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(389): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(390): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(391): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(392): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(430): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(431): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(432): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(433): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(470): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(471): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(472): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(473): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(748): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(751): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(755): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(758): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(824): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(825): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(881): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(882): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(938): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(939): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(941): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(942): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1691): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1696): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1702): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1708): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1716): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1723): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1732): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1739): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1748): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1754): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1763): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1769): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1812): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1819): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1828): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1835): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1844): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1850): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1859): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(1865): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(2242): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(2252): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(230) : 参见“fscanf”的声明
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(2271): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(2567): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(2576): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 12.0\vc\include\sys\timeb.h(131) : 参见“_ftime64”的声明
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(2577): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 12.0\vc\include\time.inl(86) : 参见“ctime”的声明
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(2579): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(2589): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(2641): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“vsprintf”的声明
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(3495): warning C4101: “work_color”: 未引用的局部变量
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(4068): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(4118): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(4236): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(4361): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(4485): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5105): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5106): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5107): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5186): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5195): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5203): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5204): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5205): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5206): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5212): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5213): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5219): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5220): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5556): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5557): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5569): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5570): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5607): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5616): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5624): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5625): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5626): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5627): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5633): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5634): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5640): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5641): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5977): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5978): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5990): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(5991): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(6120): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(6131): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(6160): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(6171): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(6203): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(6206): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(6213): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\program files\vs projects\gamedevice\gamedevice\t3dlib1.cpp(6214): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  GameDevice.vcxproj -> D:\Program Files\Vs Projects\GameDevice\Debug\GameDevice.exe
